@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="CurbArrRight" size="1.000000 1.000000" />
+    <ImageTarget name="CurbArrLeft" size="1.000000 1.000000" />
+    <ImageTarget name="ArrOut" size="1.000000 1.000000" />
+    <ImageTarget name="ArrIn" size="1.000000 1.000000" />
+    <ImageTarget name="ArrCurbOut" size="1.000000 1.000000" />
+    <ImageTarget name="ArrCurbIn" size="1.000000 1.000000" />
+    <ImageTarget name="Arrow" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
